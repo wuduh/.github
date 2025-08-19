@@ -14,4 +14,4 @@ Too much online content is written above the average comprehension level. Existi
 ## Looking Ahead  
 Wuduh’s vision is to become the **Grammarly of reading** — a tool that not only makes content easier to understand, but also helps people grow their skills over time.  
 
-🌐 [wuduh.app](http://wuduh.app)  
+🌐 [wuduh.app](http://wuduh.app) - Track our progress!  
